@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marykargozar
-- 👀 I’m interested in Artificial Inteligence
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Artificial Inteligence /Machine learning
+- 🌱 I’m currently learning Python and ML
 - 💞️ I’m looking to collaborate on python communities
 - 📫 How to reach me : Marykargozar@gmail.com 
 
